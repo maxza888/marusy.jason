@@ -1,0 +1,56 @@
+[{
+  "type": "flex",
+  "altText": "รับไปฟรี 100 ไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/022e471c503b258cbae85b319ab4cfd2.jpg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 100 ไม่เคยฝาก รับไป 50",
+        "align": "center",
+        "color": "#330000",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "👇สนใจคลิกที่ด้านล่างได้เลยคะ👇",
+        "align": "center",
+        "color": "#FFD700",
+        "size": "md"
+      },
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/0b78172076c53e14c066d9550bf0572d.png",
+        "aspectRatio": "2:1",
+        "size": "4xl",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/5vndEuk"
+        }
+      }
+    ],
+    "backgroundColor": "#FF6600",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FF6633"
+    }
+  }
+}
+}]
